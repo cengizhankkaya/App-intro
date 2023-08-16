@@ -1,16 +1,4 @@
-# appintro
+![İNTRO](https://github.com/cengizhankkaya/App-intro/assets/92298156/ef1d967c-5c68-465d-9545-67baf9cd92f1)    
 
-A new Flutter project.
+![intro2](https://github.com/cengizhankkaya/App-intro/assets/92298156/cf0ef8c2-a1e1-4bb2-bdc8-54a36a187801)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
